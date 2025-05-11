@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Kingsley
-- 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning Penetration Testing
-- 💞️ I’m looking to collaborate on Penetration Testing
+
 
 
 <!---
